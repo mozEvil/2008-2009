@@ -1,1 +1,2 @@
-# 2008-2009-university-labs-and-first-steps
+# 2008-2009
+University labs and first steps in Java
